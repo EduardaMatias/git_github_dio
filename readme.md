@@ -86,14 +86,14 @@ output: id_ed25519 (email@gmail.com) <br>
 
 No github: copiar SSH do projeto
 
-No gitbash: git clone git@github.com:Gurtinho/foodfy.git <br>
+No gitbash: `git clone git@github.com:Gurtinho/foodfy.git` <br>
 ou seja, git clone + SSH do projeto <br>
 
  - Iniciar GIT
 
-git init (inicializa um repositório) <br>
-git add (passa o arquivo de untracked para tracked - staged) <br> <br>
-git commit <br>
+`git init` (inicializa um repositório) <br>
+`git add` (passa o arquivo de untracked para tracked - staged) <br> <br>
+`git commit` <br>
 
 Ummodified - arquivo que não sofreu modificação <br>
 Modified - arquivo que foi modificado <br>
@@ -101,10 +101,10 @@ Staged - esperando para ser manipulado <br>
 
  - Resolvendo conflitos
 
-git add . <br> 
-git commit -a <br>
-git pull origin main <br>
-git push origin main <br>
+`git add.`  <br> 
+`git commit -a` <br>
+`git pull origin main` <br>
+`git push origin main` <br>
 
 ## Links úteis
 
