@@ -80,7 +80,7 @@ passo 2:
 input: ssh-add id_ed25519 <br> 
 output: Enter passphrase for id_ed25519: <br>
 input: senha definida anteriormente <br>
-output: id_ed25519 (email2003@gmail.com) <br>
+output: id_ed25519 (email@gmail.com) <br>
 
  - Clonar projeto
 
