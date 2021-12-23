@@ -9,16 +9,16 @@ Durante o Bootcamp da [Digital innovation one](https://web.dio.me/home) em parce
  - O GIT não tem interface gráfica (ou seja, é CLI), a forma de interagir com o GIT é por linhas de comando.
 
  - Comandos para usuários do windows:
-cd(navegar entre as pastas)
-dir (listar; se situar dentro do sistema computacional)
-mkdir(criar pasta)
-del / rmdir(remover arquivos \ remover respositório)
+cd(navegar entre as pastas) <br>
+dir (listar; se situar dentro do sistema computacional) <br> 
+mkdir(criar pasta) <br>
+del / rmdir(remover arquivos \ remover respositório) <br>
 
- - Comandos para usuários do unix
-cd(navegar entre as pastas)
-ls (listar; se situar dentro do sistema computacional)
-mkdir(criar pasta)
-rm -rf (remover arquivos \ remover respositório)
+ - Comandos para usuários do linux
+cd(navegar entre as pastas) <br>
+ls (listar; se situar dentro do sistema computacional) <br>
+mkdir(criar pasta) <br>
+rm -rf (remover arquivos \ remover respositório) <br>
 
  - Limpar a tela 
 CLS (Windows) e Clear (Linux)
@@ -63,48 +63,48 @@ Gerar chave:
 
 No git bash 
 
-passo 1: ssh-keygen -t ed25519 -C email@gmail.com
-passo 2: selecionar pasta que deseja salvar e a senha
-passo 3: localizar na pasta -> cd /c/Users/...
-passo 4: cat id_ed25519.pub
+passo 1: ssh-keygen -t ed25519 -C email@gmail.com <br>
+passo 2: selecionar pasta que deseja salvar e a senha <br>
+passo 3: localizar na pasta -> cd /c/Users/... <br>
+passo 4: cat id_ed25519.pub <br>
 
 No github: Settings > SSH and GPC keys > New SSH key > colar a chave que o git bash retornou após o último passo.
 
 GitBash novamente
 
 passo 1:
-input:  eval $(ssh-agent -s)
-output: Agent pid 999
+input:  eval $(ssh-agent -s) <br> 
+output: Agent pid 999 <br>
 
 passo 2: 
-input: ssh-add id_ed25519
-output: Enter passphrase for id_ed25519:
-input: senha definida anteriormente
-output: id_ed25519 (email2003@gmail.com)
+input: ssh-add id_ed25519 <br> 
+output: Enter passphrase for id_ed25519: <br>
+input: senha definida anteriormente <br>
+output: id_ed25519 (email2003@gmail.com) <br>
 
  - Clonar projeto
 
 No github: copiar SSH do projeto
 
-No gitbash: git clone git@github.com:Gurtinho/foodfy.git
-ou seja, git clone + SSH do projeto
+No gitbash: git clone git@github.com:Gurtinho/foodfy.git <br>
+ou seja, git clone + SSH do projeto <br>
 
  - Iniciar GIT
 
-git init (inicializa um repositório)
-git add (passa o arquivo de untracked para tracked - staged)
-git commit
+git init (inicializa um repositório) <br>
+git add (passa o arquivo de untracked para tracked - staged) <br> <br>
+git commit <br>
 
-Ummodified - arquivo que não sofreu modificação
-Modified - arquivo que foi modificado
-Staged - esperando para ser manipulado
+Ummodified - arquivo que não sofreu modificação <br>
+Modified - arquivo que foi modificado <br>
+Staged - esperando para ser manipulado <br>
 
  - Resolvendo conflitos
 
-git add .
-git commit -a 
-git pull origin main
-git push origin main
+git add . <br> 
+git commit -a <br>
+git pull origin main <br>
+git push origin main <br>
 
 ## Links úteis
 
