@@ -92,7 +92,7 @@ ou seja, git clone + SSH do projeto <br>
  - Iniciar GIT
 
 `git init` (inicializa um repositório) <br>
-`git add` (passa o arquivo de untracked para tracked - staged) <br> <br>
+`git add` (passa o arquivo de untracked para tracked - staged) <br> 
 `git commit` <br>
 
 Ummodified - arquivo que não sofreu modificação <br>
