@@ -1,6 +1,6 @@
 ## Desafio DIO 
 
-Durante o Bootcamp da [Digital innovation one](https://web.dio.me/home) em parceria com a [Inter](https://www.bancointer.com.br/superapp/?utm_source=google&utm_medium=cpc&utm_campaign=Pesquisa+Brand&gclid=CjwKCAiAtouOBhA6EiwA2nLKH-_eJJ2s6QokogX5syb1sjsFr2nC5HRbGTaESV0ri4QnQhLD39daHBoCFIwQAvD_BwE) foi proposto um desafio, onde o objetivo era criar um repositório no GitHub e subir arquivos para o mesmo. Isso levando em conta as aulas d "Introdução ao GIT e GitHub" ministradas pelo professor Otavio. Confira abaixa as anotações feitas em aula!
+Durante o Bootcamp da [Digital innovation one](https://web.dio.me/home) em parceria com a [Inter](https://www.bancointer.com.br/superapp/?utm_source=google&utm_medium=cpc&utm_campaign=Pesquisa+Brand&gclid=CjwKCAiAtouOBhA6EiwA2nLKH-_eJJ2s6QokogX5syb1sjsFr2nC5HRbGTaESV0ri4QnQhLD39daHBoCFIwQAvD_BwE) foi proposto um desafio, onde o objetivo era criar um repositório no GitHub e subir arquivos para o mesmo. Isso levando em conta as aulas de "Introdução ao GIT e GitHub" ministradas pelo professor Otavio. Confira abaixa as anotações feitas em aula!
 
 ## Introdução ao GIT
 
