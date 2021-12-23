@@ -23,7 +23,7 @@ rm -rf (remover arquivos \ remover respositório)
  - Limpar a tela 
 CLS (Windows) e Clear (Linux)
 
-TÓPICOS FUNDAMENTAIS PARA ENTENDER O FUNCIONAMENTO DO GIT
+## Tópicos fundamentais para entender o funcionamento do Git
 
 - SHA1
 
@@ -51,9 +51,9 @@ Diferentemento da blob, a árvore guarda o nome do arquivo e podem apontar tanto
 
 Estrutura: Tipo do objeto + tamanho do objeto + árvore + parente (ou seja, último commit realizado) + autor + mensagem + timestamp (arquivo de tempo)
 
- - GIT é um sistema ditribuído e seguro.
+ ## Porque o Git é um sistema ditribuído e seguro?
 
-CHAVE SSH
+ - Chave SSH
 
 Estabelece uma conexão segura e encriptada entre duas máquinas. 
 
