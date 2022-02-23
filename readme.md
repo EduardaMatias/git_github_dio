@@ -8,19 +8,19 @@ Durante o Bootcamp da [Digital innovation one](https://web.dio.me/home) em parce
 
  - O GIT não tem interface gráfica (ou seja, é CLI), a forma de interagir com o GIT é por linhas de comando.
 
- - Comandos para usuários do windows:
+ - Comandos para usuários do windows:<br> 
 cd(navegar entre as pastas) <br>
 dir (listar; se situar dentro do sistema computacional) <br> 
 mkdir(criar pasta) <br>
 del / rmdir(remover arquivos \ remover respositório) <br>
 
- - Comandos para usuários do linux
+ - Comandos para usuários do linux<br> 
 cd(navegar entre as pastas) <br>
 ls (listar; se situar dentro do sistema computacional) <br>
 mkdir(criar pasta) <br>
 rm -rf (remover arquivos \ remover respositório) <br>
 
- - Limpar a tela 
+ - Limpar a tela <br> 
 CLS (Windows) e Clear (Linux)
 
 ## Tópicos fundamentais para entender o funcionamento do Git
